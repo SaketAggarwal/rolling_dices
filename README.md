@@ -1,2 +1,2 @@
 # rolling_dices
-Android and ios app using flutter
+Android and ios app using flutter dart.
